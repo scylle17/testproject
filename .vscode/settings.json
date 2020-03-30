@@ -1,0 +1,10 @@
+{
+    "editor.fontFamily": "Operator Mono Lig, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontWeight": "100",
+    "editor.formatOnType": true,
+    "editor.fontSize": 12,
+    "terminal.integrated.fontFamily": "Operator Mono Lig, Menlo, Monaco, 'Courier New', monospace",
+    "nebula-theme.themeItalics": "3 - curly",
+    "terminal.integrated.fontWeightBold": "normal",
+    "terminal.integrated.fontWeight": "100"
+}
